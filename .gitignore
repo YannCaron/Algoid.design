@@ -1,0 +1,13 @@
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# MacOS Stuffs
+.DS_Store
+
+# Wings 3d stufs
+*.wings~
+*.wings#
+*.blend1
+*.mtl
+*.obj
+auvBG.png
